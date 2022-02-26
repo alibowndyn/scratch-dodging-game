@@ -1,6 +1,6 @@
 # Dodging game
 A simple dodging game made in scratch. There are only two types of attack patterns players can choose from as of now.  
-Players can move with WASD of the arrow keys.
+Players can move with WASD or the arrow keys.
 
 
 Here are some screenshots from the game itself:
